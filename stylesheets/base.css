@@ -86,7 +86,11 @@ a {
     font-size:0.8em;
     list-style:none;
     margin:7px;
-    background-color: white;
+    color: black;;
+}
+
+pre { 
+    color: black;
 }
 
 #log {
