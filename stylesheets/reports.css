@@ -1,4 +1,4 @@
-div { 
+body > div { 
     color: white;
     font-size: 16px;
 }
